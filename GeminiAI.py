@@ -20,7 +20,7 @@ class GeminiAIMod(loader.Module):
 
     def __init__(self):
         self.api_key = ""
-        self.model = "gemini-2.5-flash"
+        self.model = "gemini-3.8-flash"
         self.system_prompt = (
             "Ты персональный ИИ-помощник пользователя Telegram. "
             "Отвечай на русском, если пользователь не просит другой язык. "
