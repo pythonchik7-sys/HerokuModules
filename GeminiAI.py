@@ -33,7 +33,7 @@ class GeminiAIMod(loader.Module):
         self._client = client
         self._db = db
         self.api_key = self.get("api_key", "")
-        self.model = self.get("model", "gemini-2.5-flash")
+        self.model = self.get("model", "gemini-3.8-flash")
         self.system_prompt = self.get(
             "system_prompt", self.system_prompt
         )
