@@ -2,4 +2,4 @@ ChatJanitor
 GeminiAI
 NexusMod
 YaMusic
-BroadcastManager.py
+BroadcastManager
