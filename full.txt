@@ -3,3 +3,4 @@ GeminiAI
 NexusMod
 YaMusic
 BroadcastManager
+Lyrics
